@@ -12,11 +12,9 @@ Self-motivated Full Stack Developer and Machine Learning enthusiast with hands-o
 </p>
 
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif">
-
 #### A little more about me
 ```python
-Hari: dict = {
+Hari: info = {
     pronouns: 'He' | 'Him',
     age: number = 20,  
     code: string[] = ["Python", "JavaScript", "Java", "C++", "Go", "Rust"],
