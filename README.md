@@ -29,7 +29,7 @@ Hari: dict = {
         backend: {
             js: string[] = ["Node.js", "Express.js"],
             python: string[] = ["Flask"],
-            databases: string[] = ["MongoDB", "MySQL", "PostgreSQL]
+            databases: string[] = ["MongoDB", "MySQL", "PostgreSQL"]
         },
         ml: string[] = ["TensorFlow", "PyTorch", "scikit-learn", "Keras"],
         cloud: string[] = ["AWS", "Google Cloud", "Oracle"]
