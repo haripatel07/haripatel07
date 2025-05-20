@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Hari Patel 👋</h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a++ML+Enthusiast+and+Full+Stack+Developer;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&duration=3000&pause=1000&center=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+a++ML+Enthusiast+and+Full+Stack+Developer;" /></a>
 </p>
 
 <p align="center">
