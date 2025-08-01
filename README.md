@@ -18,7 +18,7 @@ Hari: info = {
     pronouns: 'He' | 'Him',
     age: number = 20,  
     code: string[] = ["Python", "JavaScript", "Java", "C++", "Go", "Rust"],
-    askMeAbout: string[] = ["web dev", "machine learning", "cloud computing"],
+    askMeAbout: string[] = ["web dev", "machine learning"],
     technologies: {
         frontend: {
             js: string[] = ["React", "Next.js", "TypeScript"],
@@ -26,7 +26,7 @@ Hari: info = {
         },
         backend: {
             js: string[] = ["Node.js", "Express.js"],
-            python: string[] = ["Flask"],
+            python: string[] = ["Flask", "FastAPI"],
             databases: string[] = ["MongoDB", "MySQL", "PostgreSQL"]
         },
         ml: string[] = ["TensorFlow", "PyTorch", "scikit-learn", "Keras"],
