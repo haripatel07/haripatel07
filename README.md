@@ -58,9 +58,9 @@ Hari: info = {
 ![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=haripatel07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=haripatel07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haripatel07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=haripatel07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=haripatel07&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=haripatel07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=haripatel07&theme=dracula&title=-Reviews)
