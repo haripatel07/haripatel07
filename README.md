@@ -16,21 +16,22 @@ Self-motivated Full Stack Developer and Machine Learning enthusiast with hands-o
 ```python
 Hari: info = {
     pronouns: 'He' | 'Him',
-    age: number = 20,  
-    code: string[] = ["Python", "JavaScript", "Java", "C++", "Go", "Rust"],
-    askMeAbout: string[] = ["web dev", "machine learning"],
+    age: 20,  
+    code: ["Python", "JavaScript", "Java", "C++", "Go", "Rust", "R"],
+    askMeAbout: ["web dev", "machine learning", "mobile app development"],
     technologies: {
         frontend: {
-            js: string[] = ["React", "Next.js", "TypeScript"],
-            css: string[] = ["Tailwind CSS", "Bootstrap"]
+            js: ["React", "Next.js", "TypeScript"],
+            css: ["Tailwind CSS", "Bootstrap"]
         },
         backend: {
-            js: string[] = ["Node.js", "Express.js"],
-            python: string[] = ["Flask", "FastAPI"],
-            databases: string[] = ["MongoDB", "MySQL", "PostgreSQL"]
+            js: ["Node.js", "Express.js"],
+            python: ["Flask", "FastAPI", "Django"],
+            databases: ["MongoDB", "MySQL", "PostgreSQL", "SQLite"]
         },
-        ml: string[] = ["TensorFlow", "PyTorch", "scikit-learn", "Keras"],
-        cloud: string[] = ["AWS", "Google Cloud", "Oracle"]
+        ml: ["TensorFlow", "PyTorch", "scikit-learn", "Keras", "R"],
+        mobile: ["Flutter", "React Native"],
+        cloud: ["AWS", "Google Cloud", "Oracle"]
     }
 }
 ```
