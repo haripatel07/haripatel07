@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Hari Patel 👋</h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&duration=3000&pause=1000&center=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+a++ML+Enthusiast+and+Full+Stack+Developer;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&duration=3000&pause=1000&center=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+a++ML+Enthusiast+and+Full+Stack+Developer;" /></a>
 </p>
 
 <p align="center">
@@ -97,12 +97,14 @@ Hari: info = {
 ![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=haripatel07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=haripatel07&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haripatel07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=haripatel07&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&border_radius=15&v=1"/>
+<img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=haripatel07&theme=dark&hide_border=true&border_radius=15&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&background=0d1117&v=1" alt="GitHub Streak"/>
+<img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haripatel07&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&border_radius=15&langs_count=8&v=1" alt="Top Languages"/>
 
 ## Github Trophies
-![](https://github-profile-trophy.vercel.app/?username=haripatel07&theme=dracula&title=-Reviews)
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=haripatel07&theme=dracula&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&v=1" alt="GitHub Trophies" width="100%"/>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
