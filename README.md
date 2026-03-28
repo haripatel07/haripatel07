@@ -37,7 +37,7 @@
 | **Extra features** | AI chatbot for dental queries, JWT auth, clinic locator via Geopify API |
 | **Tech** | `PyTorch` `timm` `FastAPI` `React/TypeScript` `Flutter` `Docker` `SQLite` |
 
-⭐ 3 stars · 4 forks · Capstone project (with Het Patel)
+⭐ 4 stars · 5 forks · Capstone project (with Het Patel)
 
 ---
 
@@ -52,7 +52,7 @@
 | **Deployment** | Flask API backend + React/Vite/TypeScript frontend, deployed on **Vercel** |
 | **Tech** | `TensorFlow/Keras` `scikit-learn` `Flask` `React/TypeScript` `Vite` |
 
-⭐ 11 stars · 5 forks · Live in production · Team of 3
+⭐ 12 stars · 5 forks · Live in production · Team of 3
 
 ---
 
